@@ -25,7 +25,8 @@ def analyze_sales():
     plt.xlabel('Sales Amount')
     plt.ylabel('Frequency')
     plt.savefig('sales_distribution.png')
-    print("\nSaved sales distribution plot to sales_distribution.png")
+    print("Howdy doody")
 
 if __name__ == "__main__":
     analyze_sales()
+
